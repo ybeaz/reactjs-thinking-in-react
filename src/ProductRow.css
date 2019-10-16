@@ -1,0 +1,8 @@
+.ProductRow {
+  display: flex;
+  padding-left: 11rem;
+}
+
+  .ProductRow__price {
+    padding-left: 1rem;
+  }
